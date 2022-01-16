@@ -2,7 +2,7 @@
 
 ## Link to deployed Heroku app:
 
-
+https://ancient-plateau-47371.herokuapp.com/
 
 ## Link to public repo on Github:
 
